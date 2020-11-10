@@ -1,0 +1,19 @@
+{
+  "name": "artem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "form-data": "^3.0.0",
+    "fs": "0.0.1-security",
+    "prompt": "^1.0.0",
+    "querystring": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

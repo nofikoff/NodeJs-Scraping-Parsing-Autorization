@@ -1,0 +1,3 @@
+﻿npm i
+
+node index

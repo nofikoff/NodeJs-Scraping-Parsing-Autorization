@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+
+}
+.cont {
+    width: 100px;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#btn {
+    margin-bottom: 20px;
+    padding: 5px 20px;
+    border-radius: 5px;
+    background-color: brown;
+    color: white;
+    border: 1px solid gray;
+    opacity: 0.8;
+}
+#btn:hover {
+    opacity: 1;
+}
